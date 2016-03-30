@@ -1,24 +1,25 @@
-# bevacqua
+# quiaro
 
-> Nicolas Bevacqua
+> David Quirós
 
 # install
 
 As a `postinstall` script.
 
 ```bash
-npm install bevacqua
+npm install quiaro
 ```
 
 As a JSON object.
 
 ```js
-console.log(require('bevacqua'));
+console.log(require('quiaro'));
 ```
 
 # credits
 
-[@johnkpaul](https://github.com/johnkpaul/johnkpaul)
+[@bevacqua](https://github.com/bevacqua/bevacqua)
+[@yeco](https://github.com/yeco/yeco)
 
 # license
 
